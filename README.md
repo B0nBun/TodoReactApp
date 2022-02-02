@@ -31,7 +31,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 - [**React**](https://reactjs.org/) for UI
 - [**Redux**](https://redux.js.org/) & [**Redux-Thunk**](https://github.com/reduxjs/redux-thunk) for state management
 - [**Framer Motion**](https://www.framer.com/motion/) for animations
-- [**Emotion**](https://emotion.sh/) for 
+- [**Emotion**](https://emotion.sh/) for CSS in JS styling
 
 ## File Structure
 
