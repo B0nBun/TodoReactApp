@@ -3,6 +3,8 @@ This is a "todo" app I created for practice and portfolio. Because of that it is
 
 Originally it was supposed to be just a little test, so I didn't bother with creating a git repository. That's why there are no commits from the start of the project
 
+[Here's the app itself](beautiful-monstera-58aa44.netlify.app)
+
 ## Quickstart
 If you don't have `yarn`
 ```
